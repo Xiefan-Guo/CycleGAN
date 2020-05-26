@@ -4,4 +4,4 @@ PyTorch implementation of "Unpaired Image-to-Image Translation using Cycle-Consi
 
 **Authors**: _Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros_
 
-![](https://github.com/Xiefan-Guo/CycleGAN/tree/master/assets)
+![](https://github.com/Xiefan-Guo/CycleGAN/tree/master/assets/1.png)
